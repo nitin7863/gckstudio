@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ChikPop Privacy Policy</title>
+
+<style>
+
+body{
+background:#0b0b0b;
+color:white;
+font-family:Arial;
+padding:30px;
+line-height:1.8;
+}
+
+.container{
+max-width:900px;
+margin:auto;
+background:#151515;
+padding:30px;
+border-radius:20px;
+border:1px solid #333;
+}
+
+h1{
+color:#ffcc00;
+margin-bottom:20px;
+}
+
+h2{
+color:#00aaff;
+margin-top:25px;
+}
+
+a{
+color:#00e676;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>ChikPop Privacy Policy</h1>
+
+<p>
+GCK Studio built the ChikPop game as a free game.
+This service is provided by GCK Studio.
+</p>
+
+<h2>Information Collection</h2>
+
+<p>
+The game may use third-party services including
+Google AdMob which may collect information used
+to identify you.
+</p>
+
+<h2>Advertisements</h2>
+
+<p>
+ChikPop displays ads provided by Google AdMob.
+Third-party advertisers may use cookies or device IDs.
+</p>
+
+<h2>Children's Privacy</h2>
+
+<p>
+The game is not intended for children under 13.
+</p>
+
+<h2>Changes</h2>
+
+<p>
+We may update our Privacy Policy from time to time.
+</p>
+
+<h2>Contact Us</h2>
+
+<p>
+<a href="mailto:nitin7863@gmail.com">
+nitin7863@gmail.com
+</a>
+</p>
+
+</div>
+
+</body>
+</html>
